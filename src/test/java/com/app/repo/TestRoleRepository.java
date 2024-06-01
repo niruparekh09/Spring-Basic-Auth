@@ -1,7 +1,7 @@
 package com.app.repo;
 
-import com.app.entities.Role;
-import com.app.entities.UserRole;
+import com.app.pojo.Role;
+import com.app.pojo.UserRole;
 import org.junit.jupiter.api.Test;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.boot.test.autoconfigure.jdbc.AutoConfigureTestDatabase;

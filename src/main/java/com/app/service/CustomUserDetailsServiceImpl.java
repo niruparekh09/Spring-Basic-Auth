@@ -1,6 +1,6 @@
 package com.app.service;
 
-import com.app.entities.UserEntity;
+import com.app.pojo.UserEntity;
 import com.app.repo.UserEntityRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.security.core.userdetails.UserDetails;
